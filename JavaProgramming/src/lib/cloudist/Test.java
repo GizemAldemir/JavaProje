@@ -10,8 +10,10 @@ public class Test {
 	
 	public static void main(String[] args) {
 		
-		//Learning class obje oluştur
-		//print() metodunu çağırınız.
+	Learning object = new Learning();
+	obje.Print();
+	
+	
 	}
 
 }
